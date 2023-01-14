@@ -12,3 +12,7 @@ Unmount
 umount <device/directory>
 ```
 
+Mount NFS partition 
+```
+mount -t nfs   *ip*:<*/nfs-path* > */folder-path*
+```
